@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently learning **DSA**
 
-- 👯 I’m looking working on **React.js**
+- 👯 I’m looking for working on **Python**
 
 - 🤝 I’m looking for solving **real-world problems.**
 
